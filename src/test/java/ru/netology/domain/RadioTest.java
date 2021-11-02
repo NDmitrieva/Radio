@@ -167,7 +167,6 @@ public class RadioTest {
         int actual = radio.getCurrentVolume();
         assertEquals(expected, actual);
     }
-
 }
 
 
